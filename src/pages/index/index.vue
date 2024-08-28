@@ -3,6 +3,7 @@
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
       <text class="title">{{ title }}</text>
+	  <navigator url="/pages/auth/auth">跳转</navigator>
     </view>
   </view>
 </template>

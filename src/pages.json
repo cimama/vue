@@ -5,6 +5,13 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path" : "pages/auth/auth",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录"
+			}
 		}
 	],
 	"globalStyle": {
